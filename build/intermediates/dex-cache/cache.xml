@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\.android\build-cache\c7fee847146a598f5c156343c383a13bf93c6160\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\classes_5dbecd70e49bfc7bc5633c12b44670bc0c58c652.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_d22a7c7af57cdba9d90f2db7d7a467e152157ccf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\.android\build-cache\c7fee847146a598f5c156343c383a13bf93c6160\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dbecd70e49bfc7bc5633c12b44670bc0c58c652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_df5fa5170806ea16091fae8c7d3c7c2b3e4ce494\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_d22a7c7af57cdba9d90f2db7d7a467e152157ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\.android\build-cache\2c89826b1692ae907eeabf54ba50d8c2c3a33296\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b0a64ff6dbed26707f54e93d2452b378a8aa6643.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dec06bbfe3efc259db157a32c35656d34568febe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\.android\build-cache\2c89826b1692ae907eeabf54ba50d8c2c3a33296\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b0a64ff6dbed26707f54e93d2452b378a8aa6643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\.android\build-cache\2c89826b1692ae907eeabf54ba50d8c2c3a33296\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_822874cc94100d1027eeacf4131cbc232cbf27a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\.android\build-cache\2c89826b1692ae907eeabf54ba50d8c2c3a33296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\classes_822874cc94100d1027eeacf4131cbc232cbf27a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dec06bbfe3efc259db157a32c35656d34568febe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Multiple-Choice-Questions-Android-App-master\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_db80162a7d6cb6931d32de556c6a594ebaef998c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harita\.android\build-cache\746f7a2211c6369f255a8f9394a9eb5efbe34292\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba349e347f3e470d2e243c5c7f3d48ce1cc3ff54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Multiple-Choice-Questions-Android-App-master\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_db80162a7d6cb6931d32de556c6a594ebaef998c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harita\.android\build-cache\746f7a2211c6369f255a8f9394a9eb5efbe34292\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\pre-dexed\debug\classes_ba349e347f3e470d2e243c5c7f3d48ce1cc3ff54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cd42fa4ffb392a67be41841bfbb0bf5403c3d2">
+        <dex dex="C:\Multiple-Choice-Questions-Android-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4c000807fcf2a7c8b70722884adee57e229301f8\classes.dex" />
+    </item>
+
+</items>

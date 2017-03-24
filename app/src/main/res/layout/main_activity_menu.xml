@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/mainMenu"
+        android:layout_gravity="center_horizontal">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/question"
+            android:id="@+id/question"
+            android:width="250dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:textSize="@dimen/text_size"
+            android:onClick="info_click"
+            android:nestedScrollingEnabled="true" />
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="350dp"
+            android:layout_height="550dp"
+            android:layout_above="@+id/btnInfo"
+            android:layout_alignLeft="@+id/fundo"
+            android:layout_alignRight="@+id/btnInfo"
+            android:layout_alignTop="@+id/fundo"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/backgroundMain" />
+
+    </LinearLayout>
+
+</LinearLayout>
